@@ -81,6 +81,10 @@ namespace WordToPDFConverter
 
         }
 
+        /// <summary>
+        /// the Original source of this function is https://stackoverflow.com/a/55334441.
+        /// </summary>
+        /// <param name="filePath"></param>
         private void convertDOCtoPDF(string filePath)
         {
             //Get File Name
