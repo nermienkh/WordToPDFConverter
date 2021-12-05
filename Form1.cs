@@ -8,8 +8,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Spire.Doc;
-using Spire.Doc.Documents;
+//using Spire.Doc;
+//using Spire.Doc.Documents;
 using Word = Microsoft.Office.Interop.Word;
 namespace WordToPDFConverter
 {
